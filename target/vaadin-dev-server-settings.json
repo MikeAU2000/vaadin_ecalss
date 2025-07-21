@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "/Users/mikeau/Documents/vaadin_adminproject/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/Users/mikeau/Documents/vaadin_adminproject/frontend/generated/jar-resources",
+  "staticOutput": "/Users/mikeau/Documents/vaadin_adminproject/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "/Users/mikeau/Documents/vaadin_adminproject/target/classes/META-INF/VAADIN/config",
+  "frontendBundleOutput": "/Users/mikeau/Documents/vaadin_adminproject/target/classes/META-INF/VAADIN/webapp",
+  "devBundleOutput": "/Users/mikeau/Documents/vaadin_adminproject/src/main/dev-bundle/webapp",
+  "devBundleStatsOutput": "/Users/mikeau/Documents/vaadin_adminproject/src/main/dev-bundle/config",
+  "jarResourcesFolder": "/Users/mikeau/Documents/vaadin_adminproject/frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "/Users/mikeau/Documents/vaadin_adminproject/target/sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
